@@ -1,0 +1,13 @@
+.loading {
+  width: 100%;
+  height: 100%;
+  background-color: $cLightAzureOpacity;
+  position: absolute;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  h1 {
+    position: relative;
+    margin-top: 20%;
+  }
+}

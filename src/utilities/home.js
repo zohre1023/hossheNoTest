@@ -1,0 +1,1 @@
+export const YOU_DONT_HAVE_ANY_DATA = "YOU DONT HAVE ANY DATA...";
